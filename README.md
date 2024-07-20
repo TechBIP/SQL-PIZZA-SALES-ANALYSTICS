@@ -1,5 +1,4 @@
 # SQL-PIZZA-SALES-ANALYSTICS
-# SQL Pizza Sales Analytics
 
 ## Project Overview
 
@@ -55,3 +54,4 @@ This project involves several steps and utilizes various tools and technologies:
 ## Viewing the Project
 
 To see the full project in detail, including all the questions and their solutions, please open the PDF file named `PIZZA_SALES_PROJECT_MY_SQL` available in this repository.
+THANKYOU---IF YOU HAVE ANY OTHER SUJJESTIONS THEN FEEL FREE TO FORK AND CONTRIBUTE TO THE REPOSITORY.
