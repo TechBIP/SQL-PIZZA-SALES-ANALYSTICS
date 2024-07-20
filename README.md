@@ -4,7 +4,7 @@
 
 Welcome to the SQL Pizza Sales Analytics project! This project showcases the application of database management systems using SQL. The project is centered around analyzing pizza sales data imported from Excel sheets into MySQL Workbench. The database was constructed by writing codes and commands in the Query Bench to create tables. Following the creation of the tables, various problem statements were addressed, ranging from basic to advanced levels of complexity.
 
-To view the complete project, including all the solved questions and their outputs, please open the PDF file named `PIZZA_SALES_PROJECT_MY_SQL`.
+To view the complete project, including all the solved questions and their outputs, please open the PDF file named `PIZZA_SALES_PROJECT_MY_SQL` ABOVE
 
 ## Project Details
 
